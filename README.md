@@ -1,2 +1,2 @@
 # UdacityDogBreedClassifier
-UdacityDogBreedClassifier
+Udacity Dog Breed Classifier
