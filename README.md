@@ -1,2 +1,2 @@
 # UdacityDogBreedClassifier
-Udacity Dog Breed Classifier
+This is the Udacity Dog Breed Classifier project from the [Deep Learning nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) program. In this project we use a Convolutional Neural Network to identify different breeds of dogs from images of dogs. If the network is fed an image of a human it will infer what the closest resembling doog breed the human is.
